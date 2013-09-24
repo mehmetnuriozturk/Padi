@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
+# Licensed under GPL v3
+# Copyright 2013,Mehmet Nuri ÖZTÜRK <mnozturk2@gmail.com>
+# Please read the COPYING file.
+#
+
+from padi import main as padi
+padi.main()
